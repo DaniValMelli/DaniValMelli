@@ -5,8 +5,11 @@
 > Hi, I'm Daniela. I’m currently Engineer in Electronics and Telecommunications from Universidad del Cauca.
 
 ### My values
-> - :mechanical_arm:
-> - :handshake:
+> - :mechanical_arm: Continuous learning.
+> - :handshake: Teamwork planning.
+> - :japanese_castle: Innovative and creativity
+> - :eyes: Enthusiastic about new technologies
+> - :dna: Empathetic
 
 ### My skills
 > - 🔭 
