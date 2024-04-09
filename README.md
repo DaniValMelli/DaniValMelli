@@ -12,13 +12,11 @@
 > - :dna: Empathetic
 
 ### My skills
-> - 🔭 
-> - 🌱 I’m currently learning more
-> - 👯 I’m looking to collaborate on ...
-> - 💬 Ask me about ...
-> - 📫 How to reach me: ...
-> - 😄 Pronouns: ...
-> - ⚡ Fun fact: ...
+> - 🔭 Self-taught person.
+> - 🌱 Data analytics.
+> - 💬 Project management.
+> - ⚡ Scrum methodology
+
 
 ```python
 def display_technologies():
@@ -40,4 +38,6 @@ def display_technologies():
 display_technologies()
 ```
 
+### Contact me
+> - 📫 How to reach me: ...
 
