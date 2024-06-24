@@ -21,7 +21,7 @@
 ```python
 def display_technologies():
     technologies = {
-        "Backend": ["Python", "JavaScript"],
+        "Backend": ["Python", "JavaScript", "php"],
         "Frontend": ["Angular", "HTML", "CSS", "JavaScript"],
         "Testing": ["Postman"],
         "Cloud": ["Huawei Cloud", "AWS"],
