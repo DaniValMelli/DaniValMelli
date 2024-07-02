@@ -2,7 +2,7 @@
 # Daniela Valencia Mellizo
 
 ### About me
-> Hi, I'm Daniela. I’m currently Engineer in Electronics and Telecommunications from Universidad del Cauca.
+> Hi, I'm Daniela. I’m currently Engineer in Electronics and Telecommunications from Universidad del Cauca. With experience in software testing planning, project management, and as coordinator of the Robotics Research Group. Knowledge in Full-Stack programming, Agile methodologies, and databases.
 
 ### My values
 > - :mechanical_arm: Continuous learning.
@@ -23,7 +23,7 @@ def display_technologies():
     technologies = {
         "Backend": ["Python", "JavaScript", "php"],
         "Frontend": ["Angular", "HTML", "CSS", "JavaScript"],
-        "Testing": ["Postman"],
+        "Testing": ["Postman", "Jira"],
         "Cloud": ["Huawei Cloud", "AWS"],
         "Tools": ["MATLAB", "Jira", "Figma", "PowerBI"]
     }
@@ -39,5 +39,5 @@ display_technologies()
 ```
 
 ### Contact me
-> - 📫 How to reach me: ...
+> - 📫 How to reach me: [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/daniela-valencia-mellizo-1a1688232/))
 
