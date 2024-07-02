@@ -39,5 +39,5 @@ display_technologies()
 ```
 
 ### Contact me
-> - 📫 How to reach me: [LinkedIn](https://pages.github.com/](https://www.linkedin.com/in/daniela-valencia-mellizo-1a1688232/)
+> - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniela-valencia-mellizo-1a1688232/)
 
